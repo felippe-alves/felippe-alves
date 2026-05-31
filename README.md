@@ -1,7 +1,7 @@
 # Felippe Alves
 
 Researcher in **AI & Machine Learning** at the University of São Paulo (USP).  
-I work on problems at the intersection of theory and application — building models, writing research software, and occasionally questioning my choices in both.
+I work on problems at the intersection of theory and application — building models and writing research software.
 
 ---
 
@@ -14,7 +14,9 @@ I work on problems at the intersection of theory and application — building mo
 
 ### Currently
 
-- Doing research in machine learning at USP
+- Doing research in AI and machine learning at the Agentic Complex Systems, ACS-USP
+- Investigating KAN architecture for language models
+- Developing a LLM agent interaction platform for simulations in Quantitative Sociology
 - Open to collaborations — feel free to reach out if our interests overlap
 
 ---
