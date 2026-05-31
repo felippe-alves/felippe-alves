@@ -1,16 +1,24 @@
-## Hi there 👋
+# Felippe Alves
 
-<!--
-**felippe-alves/felippe-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher in **AI & Machine Learning** at the University of São Paulo (USP).  
+I work on problems at the intersection of theory and application — building models, writing research software, and occasionally questioning my choices in both.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I reach for
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+
+---
+
+### Currently
+
+- Doing research in machine learning at USP
+- Open to collaborations — feel free to reach out if our interests overlap
+
+---
+
+### Contact
+
+felippe.pereira@usp.br
