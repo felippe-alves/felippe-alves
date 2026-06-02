@@ -1,6 +1,6 @@
 # Felippe Alves
 
-Researcher in **AI & Machine Learning** at the University of São Paulo (USP).  
+Physics Phd, researcher in **AI & Machine Learning** at the University of São Paulo (USP).  
 I work on problems at the intersection of theory and application — building models and writing research software.
 
 ---
