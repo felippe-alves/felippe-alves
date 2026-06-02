@@ -16,7 +16,7 @@ I work on problems at the intersection of theory and application — building mo
 
 ### Currently
 
-- Doing research in AI and machine learning at the Agentic Complex Systems, [ACS-USP](https://www.ime.usp.br/~rvicente/acs-usp.html)
+- Doing research in AI and machine learning at the Agentic Complex Systems, [ACS-USP](https://acs.ime.usp.br)
 - Investigating KAN architecture for language models
 - Developing a LLM agent interaction platform for simulations in Quantitative Sociology
 - Open to collaborations — feel free to reach out if our interests overlap
